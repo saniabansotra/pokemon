@@ -17,6 +17,7 @@ const Poke = () => {
   return (
     <>
       <h1> Hello Guys This is Pokemon</h1>
+      <h1>welcome to pokemon world</h1>
       <h3>
         Your Choose <span style={{ color: "Purple" }}> {num}</span> value
       </h3>
